@@ -64,3 +64,9 @@ Jeangelis Silva Santos
 
 ---
 
+## Observações adicionais:
+
+* Os códigos e visualizações geradas neste projeto podem ser encontrados no notebook `FraudSpotter.ipynb`.
+* Sinta-se à vontade para entrar em contato caso tenha alguma dúvida ou sugestão.
+
+Espero que este projeto seja útil e informativo!
