@@ -1,10 +1,10 @@
 # 💳 FraudSpotter: detecção inteligente de fraudes com análise de custos
 
-Este projeto explora a detecção de fraudes em transações financeiras utilizando técnicas de balanceamento de dados e o algoritmo XGBoost. O foco principal é reduzir os custos operacionais causados por previsões incorretas, considerando o impacto financeiro de falsos positivos e falsos negativos.
+Problema: Fraudes em transações financeiras representam um desafio crescente, gerando perdas significativas para empresas e clientes. A detecção eficiente de fraudes é crucial para minimizar esses impactos.
 
 ## 📌 Objetivo
 
-Construir um modelo de classificação robusto que maximize o recall de fraudes sem aumentar excessivamente os falsos positivos, com foco em minimizar o custo total das decisões do modelo.
+Este projeto explora a detecção de fraudes em transações financeiras utilizando técnicas de balanceamento de dados e o algoritmo XGBoost. O foco principal é reduzir os custos operacionais causados por previsões incorretas, considerando o impacto financeiro de falsos positivos e falsos negativos.
 
 ## 📂 Dataset
 
