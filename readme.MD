@@ -1,6 +1,6 @@
 # 💳 FraudSpotter: detecção inteligente de fraudes com análise de custos
 
-Problema: Fraudes em transações financeiras representam um desafio crescente, gerando perdas significativas para empresas e clientes. A detecção eficiente de fraudes é crucial para minimizar esses impactos.
+Problema: Fraudes em transações financeiras representam um desafio crescente, gerando perdas significativas para empresas e clientes. A detecção eficiente de fraudes é vital para minimizar esses impactos.
 
 ## 📌 Objetivo
 
@@ -11,7 +11,7 @@ Este projeto explora a detecção de fraudes em transações financeiras utiliza
 - **Fonte:** [Kaggle - Credit Card Fraud Detection](https://www.kaggle.com/mlg-ulb/creditcardfraud)
 - **Descrição:** Conjunto de dados contendo transações com cartão de crédito realizadas por clientes europeus em setembro de 2013. As features (V1 a V28) foram transformadas por PCA para garantir privacidade.
 
-## 🔍 Etapas do Projeto
+## 🔍 Etapas do projeto
 
 1. **Análise exploratória de dados (EDA)**
    - Visualização inicial dos dados
@@ -39,7 +39,7 @@ Este projeto explora a detecção de fraudes em transações financeiras utiliza
    - Discussão dos resultados da análise de custos
 
 
-## 💡 Principais Resultados
+## 💡 Principais resultados
 
 - As técnicas de balanceamento **melhoraram significativamente o desempenho na identificação de fraudes**.
 - O modelo que utilizou a base dedados balanceada via **SMOTE** apresentou o **menor custo total** entre as abordagens testadas.
@@ -49,18 +49,13 @@ Este projeto explora a detecção de fraudes em transações financeiras utiliza
 
 O projeto demonstrou que a análise orientada por custo é essencial em cenários críticos como detecção de fraudes. Técnicas de balanceamento de dados, quando combinadas com algoritmos robustos como o XGBoost, podem melhorar significativamente a eficácia operacional do sistema antifraude.
 
-## 🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias utilizadas
 
 - Python
 - Pandas, NumPy, Matplotlib, Seaborn
 - Scikit-learn
 - Imbalanced-learn (SMOTE)
 - XGBoost
-
-## 👨‍💻 Autor
-
-Jeangelis Silva Santos  
-[LinkedIn](https://www.linkedin.com/in/jeangelis/) | [GitHub](https://github.com/Jeangelis) | jeangelis@gmail.com
 
 ---
 
